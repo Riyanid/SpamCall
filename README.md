@@ -37,6 +37,6 @@
 
 -git clone https://github.com/riyanid/Spamchatwea
 
--cd Spam-Sms-Wa
+-cd Spamchatwea
 
 -python3 spam.py
