@@ -52,4 +52,4 @@ python spamcall.py
   ♻ UNTUK MENGEDIT SCRIPT KETIKAN
   
 nano spamcall.py                                                            
-                                                              pkg update
+                                                             
