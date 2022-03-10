@@ -27,5 +27,29 @@
                                                               
 ### COMAND TERMUX
                                                               
-                                                              
+  pkg update
+
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install git
+
+pkg install nano
+
+pkg install unzip
+
+pkg install bash
+
+git clone https://github.com/riyanid/SpamCall
+
+  ♻ UNTUK MENJALANKAN SCRIPT KETIKAN
+  
+python spamcall.py
+
+  ♻ UNTUK MENGEDIT SCRIPT KETIKAN
+  
+nano spamcall.py                                                            
                                                               pkg update
