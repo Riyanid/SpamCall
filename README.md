@@ -27,29 +27,16 @@
                                                               
 ### COMAND TERMUX
                                                               
-  pkg update
+-pkg update && pkg upgrade
 
-pkg upgrade
+-pkg install python3
 
-pkg install python
+-pip install requests
 
-pkg install python2
+-pkg install git
 
-pkg install git
+-git clone https://github.com/riyanid/Spamchatwea
 
-pkg install nano
+-cd Spam-Sms-Wa
 
-pkg install unzip
-
-pkg install bash
-
-git clone https://github.com/riyanid/SpamCall
-
-  ♻ UNTUK MENJALANKAN SCRIPT KETIKAN
-  
-python spamcall.py
-
-  ♻ UNTUK MENGEDIT SCRIPT KETIKAN
-  
-nano spamcall.py                                                            
-                                                             
+-python3 spam.py
