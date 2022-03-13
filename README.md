@@ -42,5 +42,5 @@
 -python3 spam.py
                                                               
                                                               
-   (https://youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw)                                                          
+ Cara Pemasangan[click d sini](https://youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw)                                                          
                                                               
