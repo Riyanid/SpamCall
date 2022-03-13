@@ -41,6 +41,6 @@
 
 -python3 spam.py
                                                               
- ###TUTORIAL PEMASANGAN                                                           
+ ### TUTORIAL PEMASANGAN                                                           
  Cara Pemasangan. [click d sini](https://youtube.com/channel/UC1XsDCuEyez3gcogOMgOJxw)                                                          
                                                               
