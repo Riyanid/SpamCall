@@ -6,15 +6,22 @@ import requests, os
 
 def logo():
   print("""
-   ==========================
-   [ ♻ TOOLS SPAM CHT WA ♻ ]
-   ==========================
-   =====================
-   [ Author : |2!¥απαDΔ✔ ]
-   =====================
-   =================================
-   [ Github : https://github.com/riyanid✔ ]
-   =================================
+=========================================================
+¦¦
+¦¦   ===============================
+¦¦   [ ♻ TOOLS SPAM SMS,WA,CALL ♻ ]
+¦¦   ===============================
+¦¦   =====================
+¦¦   [ RECODE : |2!¥απαDΔ ✔ ]
+¦¦   =====================
+¦¦   =========================================
+¦¦   [ Github : https://github.com/riyanid ✔ ]
+¦¦   =========================================
+¦¦    ======================
+¦¦   [ YouTube : R1Y4N4D4 ✔ ]                           
+¦¦   =======================                           
+¦¦                                                        
+==========================================================
 """)
 
 def menu():
@@ -26,9 +33,9 @@ def menu():
   for i in range(jum):
       req = requests.get("https://ainxbot-sms.herokuapp.com/api/spamsms",params={"phone":nomor}).text
       if 'terkirim' in req:
-           print("\nSpam Terkirim")
+           print("\nSpam Terkirim ✔ | By:|2!¥απαDΔ")
       else:
-           print("\nSpam Gagal")
+           print("\nKendala jaringan! Coba beberapa saat!")
            os.system('clear')
 
 menu()
