@@ -35,7 +35,7 @@ def menu():
       if 'terkirim' in req:
            print("\nSpam Terkirim ✔ | By:|2!¥απαDΔ")
       else:
-           print("\nKendala jaringan! Coba beberapa saat!")
-           os.system('clear')
+           print("\nGagal! Kendala jaringan,Coba beberapa saat!")
+           
 
 menu()
